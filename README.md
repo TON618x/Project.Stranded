@@ -1,9 +1,9 @@
-# Project.Stranded
-Slogan: _Simply NextGen Indie_
+#Project.Stranded // Simply NextGen Indie
 
-**IMPORTANT INFO:**
+Welcome to Project Stranded, an immersive and realistic indie survival game set on the hostile planet of Mars. As a lone astronaut, you are sent on various missions to collect valuable samples and bring them back to Earth.
 
-_"Project Stranded" is an upcoming survival indie game in which the player takes on the role of a lone astronaut stranded on the hostile planet of Mars. The objective of the game is to complete various missions and collect valuable samples to send back to Earth. The gameplay will be focused on survival, as the player must navigate the harsh environment and manage resources to stay alive. The storyline is still being developed, so some aspects of the game may change as development progresses. The lead developer of the game is currently hiring developers with any level of Unity engine experience to accelerate the development and contribute to the community._
+This ambitious project has a massive vision, and we are inviting Unity developers of any experience to contribute and be a part of it. We are a dedicated and passionate team, and we welcome new members to join us in creating an unforgettable gaming experience.
 
-If you are a developer with Unity Experience please contact the Team on the development discord server and learn more about this massive ambitious project:
-**https://frostsoftarts.carrd.co**
+If you are interested in contributing to this project, please click on the link "https://frostsoftarts.carrd.co" to join our development discord server and learn more about Project Stranded. Together, we can create something truly special.
+
+Thank you for your interest in Project Stranded. We look forward to working with you and for players to experience greatness!
